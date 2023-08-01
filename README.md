@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Eric Miyahara</h1>
 <h3 align="center">A passionate student from Brazil</h3>
 
-<p align="left"> <img src="https://miro.medium.com/v2/resize:fit:750/1*A6Sl8DS_C6-mYf2KiqvtyA.gif" alt="erichidekimiyahara" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="erichidekimiyahara" /> </p>
 
 - 🌱 I’m currently learning **Phyton**
 
