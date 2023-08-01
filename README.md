@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/ed/63/ec/ed63ec5a0e42c1057a07f14d091b4365.gif)
+![MasterHead](https://64.media.tumblr.com/222f32dd57facf11622e88dc24bc0373/df4292e22ef5062f-22/s640x960/2d199dd0cff96efe0cdb8d58a3098e71fb2026b2.gif)
 <h1 align="center">Hi 👋, I'm Eric Miyahara</h1>
 <h3 align="center">A passionate student from Brazil</h3>
 
