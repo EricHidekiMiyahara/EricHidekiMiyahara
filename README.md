@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Eric Miyahara</h1>
 <h3 align="center">A passionate student from Brazil</h3>
 
-- 🌱 I’m currently learning **Phyton**
+- 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **C, Java**
+- 💬 Ask me about **Java, C**
 
 - 📫 How to reach me **erichidekimiyahara@gmail.com**
 
