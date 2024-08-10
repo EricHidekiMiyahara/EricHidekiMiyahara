@@ -1,4 +1,3 @@
-![MasterHead](https://64.media.tumblr.com/222f32dd57facf11622e88dc24bc0373/df4292e22ef5062f-22/s640x960/2d199dd0cff96efe0cdb8d58a3098e71fb2026b2.gif)
 <h1 align="center">Hi 👋, I'm Eric Miyahara</h1>
 <h3 align="center">A passionate student from Brazil</h3>
 
@@ -26,8 +25,17 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erichidekimiyahara&show_icons=true&locale=en&layout=compact" alt="Most used languages"/></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=erichidekimiyahara&show_icons=true&locale=en&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erichidekimiyahara&show_icons=true&locale=en" alt="Eric Miyahara's Github Stats"/></p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=erichidekimiyahara&show_icons=true"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=erichidekimiyahara&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=erichidekimiyahara&show_icons=true" />
+</picture>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erichidekimiyahara&" alt="Contributions"/></p>
