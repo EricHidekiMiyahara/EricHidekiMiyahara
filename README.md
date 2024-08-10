@@ -25,17 +25,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=erichidekimiyahara&show_icons=true&locale=en&layout=compact)
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=erichidekimiyahara&show_icons=true&locale=en&layout=compact"/>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=erichidekimiyahara&show_icons=true"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=erichidekimiyahara&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=erichidekimiyahara&show_icons=true" />
-</picture>
+<img alt="my stats" width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=erichidekimiyahara&show_icons=true" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erichidekimiyahara&" alt="Contributions"/></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=erichidekimiyahara&" alt="Contributions"/></p>
+
+<div align="center" >
+   
+![Eric's github activity graph](https://ssr-contributions-svg.vercel.app/_/erichidekimiyahara?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=#39d353) 
+
+</div>
